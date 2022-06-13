@@ -5,7 +5,7 @@ int main(void)
     char strg[25];
     int leng, i;
 
-    printf("Program in C for reversing a given string \n ");
+    printf("Program for reversing a given string \n ");
     scanf( "%s", strg );
 
     // This will find the length of your string with the help of strlen() function of string.h header file
